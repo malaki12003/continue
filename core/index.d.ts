@@ -853,6 +853,7 @@ export type RerankerName =
   | "cohere"
   | "voyage"
   | "llm"
+  | "ollama"
   | "free-trial"
   | "huggingface-tei"
   | "continue-proxy";

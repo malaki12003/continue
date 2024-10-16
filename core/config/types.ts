@@ -796,6 +796,7 @@ declare global {
     | "cohere"
     | "voyage"
     | "llm"
+    | "ollama"
     | "free-trial"
     | "huggingface-tei"
     | "continue-proxy";
